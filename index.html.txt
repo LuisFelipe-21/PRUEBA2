@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<HTML lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Prueba2 Luis marin</title>
+</head>
+<body>
+    <h1>hola esta es mi prueba 2 Luis marin</h1>
+</body>
+</html>
